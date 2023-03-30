@@ -7,7 +7,7 @@
 </a>
 <a href="s">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsung1386&exclude_repo=minsung1386.github.io&layout=compact&theme=tokyonight" />
 </a>
-<br>
+<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=denfor123)](https://solved.ac/denfor123/)
 
 <!--
